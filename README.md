@@ -21,16 +21,18 @@ The program randomly selects a number between **1 and 100**, and the player has 
    java -version
 
 2. Compile the program:
-javac NumberGuessing.java
+   ```bash
+   javac NumberGuessing.java
 
 3. Run the program:
-java NumberGuessing
+   ```bash
+   java NumberGuessing
 
-Sample Output:
-Welcome to the Number Guessing Game!
-I am thinking of a number between 1 and 100. Can you guess it in 10 attempts?
-Enter your guess: 50
-Your number is too small.
-Remaining Attempts: 9
-...
+## Sample Output: <br>
+Welcome to the Number Guessing Game! <br>
+I am thinking of a number between 1 and 100. Can you guess it in 10 attempts?<br>
+Enter your guess: 50<br>
+Your number is too small.<br>
+Remaining Attempts: 9<br>
+...<br>
 Do you want to play again? (yes / no):
